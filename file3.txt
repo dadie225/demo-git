@@ -1,2 +1,4 @@
 si je savais n'a pas de queue
-Quoi ? ce n'estv pas possible .
+=======
+Il ne faut jamais baisser les bras car au bourt de l'effort se trouve la recompenses 
+>>>>>>> super-cool
