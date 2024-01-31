@@ -1,0 +1,3 @@
+Un module est tout simplement une partie de votre code Terraform que vous placez à l'intérieur d'un répertoire
+et que vous réutilisez à plusieurs endroits dans votre code. Au lieu donc d'avoir le même code copié et collé dans
+les différents projets, vous pourrez demander à vos différentes équipes de réutilise
